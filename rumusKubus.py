@@ -8,7 +8,6 @@ volume = sisi**3
 luasP = 6 * sisi**2     
 
 def myFunction():
-    
     if(sisi > 0):
         print(f"Volume kubus adalah : {volume} cm^3")
         print(f"Luas Permukaan Kubus adalah : {luasP} cm^3")
